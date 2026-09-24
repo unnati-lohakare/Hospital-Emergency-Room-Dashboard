@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard created to analyze hospital emergency room patient data and operational performance.
 
-## Dashboard Preview
+## 📊 Dashboard Preview
 
 ![Hospital Emergency Room Dashboard](dashboard-image.png)
 
